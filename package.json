@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/polchky/git-test/issues"
   },
-  "homepage": "https://github.com/polchky/git-test#readme"
+  "homepage": "https://github.com/polchky/git-test#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
 }
